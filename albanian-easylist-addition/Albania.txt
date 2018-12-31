@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 30/12/2018
-! Expires: 3 days
+! Last modified: 31/12/2018
+! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
 !
@@ -36,7 +36,7 @@ albeu.com##.sendpulse-prompt
 html$domain=kohajone.com,subdocument
 kohajone.com##div > iframe
 kohajone.com##.td-desktop
-
+kohajone.com##.td_block_template_1 > div > img
 
 ! Koha Jone Buggy Div
 kohajone.com##.vc_raw_html:has-text(Html code)
@@ -145,7 +145,7 @@ noa.al##.top-bigBanner
 noa.al##.banner_wrapper.pc_only
 
 ! Neptun Cookie Banner
-www.neptun.al###v-cookielaw
+neptun.al###v-cookielaw
 
 ! Shpresa AL Cookie Banner
 dyqani.shpresa.al##.biscotto-container
@@ -179,7 +179,7 @@ tvklan.al##.ad-widget-sizes > a > .ad-widget-box
 blitz.al##.main-nosplit > a
 
 ! Cineplexx Top Location Picker
-www.cineplexx.al##.location-choose.open > wrapper:style(visibility:hidden;)
+cineplexx.al##.location-choose.open > wrapper:style(visibility:hidden;)
 
 ! Lapsi Desktop Notification Nagging
 lapsi.al##.textwidget > button
@@ -254,7 +254,7 @@ newsport.al##.ad
 newsport.al###custom_html-3
 
 ! Vip Sport Ads
-www.vipsport.al##.execphpwidget > a > img
+vipsport.al##.execphpwidget > a > img
 
 ! ACP Ads
 acp.al##.sidebar-baner-top
@@ -265,10 +265,123 @@ acp.al##.new_banner
 27.al##.wpb_wrapper.vc_figure
 
 ! Standard New Post Popup
-www.standard.al##.jnews_popup_post_container
+standard.al##.jnews_popup_post_container
 
 ! Botime Pegi Snowflakes
 botimepegi.al##.wp-super-snow-flake
 
 ! Durres Lajm New Post Box
 durreslajm.al###slidebox
+
+! Vizion Plus Ads
+vizionplus.tv##.pazar
+vizionplus.tv##.cssnow
+vizionplus.tv##.col-lg-3 > a > img
+vizionplus.tv###horiz_banner_2-wrap
+vizionplus.tv###upprev_box
+vizionplus.tv##.col-md-4 > a
+vizionplus.tv##.col-md-4 > iframe
+vizionplus.tv##.container > iframe
+html$domain=vizionplus.tv,subdocument
+
+! Telegrafi Ads
+telegrafi.com##.leaderboard-banner > iframe
+
+! RTSH Ads
+rtsh.al###text-html-widget-64 > .widget-container
+rtsh.al##.e3lan-post
+
+! ATA Ads
+ata.gov.al##.td-all-devices
+
+! Rilindja Demokratike Ads
+rd.al##.td_block_template_1 > div > img
+
+! Epoka e Re Ads
+epokaere.com##.rek
+epokaere.com##.crestaPostsBox
+
+! Tirana Times Ads
+tiranatimes.com##.main-sidebar > .widget > .banner
+
+! Evolve Studio Chat
+evolve.al###tidio-chat
+
+! Kallxo Ads
+kallxo.com##.xo360
+kallxo.com##.latestVideo
+
+! Gazeta Tribuna Ads
+gazetatribuna.com##.rek
+
+! RTV 21 Ads
+rtv21.tv###weather
+rtv21.tv##.small-ad-wrapper
+
+! Rrokum TV Ads
+rrokum.tv##.td-all-devices
+rrokum.tv##.td_block_template_1 > a > img
+
+! BotaPress Ads
+botapress.info##.g-4
+botapress.info##.g-1
+botapress.info##.headerslider
+
+! Ekonomia Online Ads
+ekonomiaonline.com##.g-7
+
+! Kosova Live 360 Ads
+kosovalive360.com##.awac-wrapper
+
+! Presheva Jone Ads
+preshevajone.com##.hidebanner
+preshevajone.com##.textwidget
+
+! TV Koha Ads
+www.tvkoha.tv##.td_block_template_1 > a > img
+
+! Lajme Press Ads
+lajmpress.com##.td-visible-desktop
+
+! Albinfo Banners
+www.albinfo.ch##.leadBanner
+
+! Shqiptarja Ads
+shqiptarja.com##.sidebar
+
+! Panorama Ads
+panorama.com.al##.reklama-box
+panorama.com.al##center
+panorama.com.al##iframe
+
+! Nacional Albania Ads
+nacionalalbania.al###text-7
+nacionalalbania.al###text-8
+nacionalalbania.al###text-9
+
+! Revista Kosovarja Ads
+revistakosovarja.net##.vc_column-inner > .wpb_wrapper > .vc_hidden-sm > .wpb_wrapper
+revistakosovarja.net##.wpb_wrapper > p > a > img
+
+! iPhone Albania Ads
+iphonealbania.net###HTML1
+
+! Radio Kosova e Lire Ads
+radiokosovaelire.com###dk-image-rotator-widget-3
+radiokosovaelire.com###dk-image-rotator-widget-4
+radiokosovaelire.com###dk-image-rotator-widget-7
+radiokosovaelire.com###check-also-box
+
+! Almakos Ads
+almakos.com##.fn-header-banner
+almakos.com##.textwidget > center > a
+
+! Shkabaj Ads
+shkabaj.net##iframe
+shkabaj.net##center
+
+! MyAlbanianFood Ads
+myalbanianfood.com###custom_html-6
+myalbanianfood.com###text-15
+myalbanianfood.com##.sidebar-single-w
+myalbanianfood.com##.single-post-comments-sidebar
