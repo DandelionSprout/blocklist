@@ -24,7 +24,7 @@ Keep in mind, that some browsers do not support these features, such as Safari.
 ## Basic
 
 Also you might want to enable your country's local list from uBO settings.
-For Albanian, you can check the list [here](/albanian-easylisy-addition/Albania.txt) and the sources [here](https://github.com/AnXh3L0/blocklist).
+For Albanian, you can check the list [here](/albanian-easylist-addition/Albania.txt) and the sources [here](https://github.com/AnXh3L0/blocklist).
 
 ## Advanced (Blocks more annoyances)
 
