@@ -286,21 +286,21 @@ h3,h4,h5,h6{
     color:#fff
 }
 a{
-    color:#267CB9;
+    color:#F3F018;
     text-decoration:none
 }
 a:hover,a:focus{
-    color:#069;
+    color:#BCB91C;
     font-weight:bold
 }
 a small{
     font-size:11px;
-    color:#777;
+    color:#F3F018;
     margin-top:-0.3em;
     display:block
 }
 a:hover small{
-    color:#777
+    color:#BCB91C
 }
 .wrapper{
     width:860px;
@@ -386,7 +386,7 @@ header ul a:active{
     background-color:#f0f0f0
 }
 strong{
-    color:#222;
+    color:#eee;
     font-weight:700
 }
 header ul li+li+li{
