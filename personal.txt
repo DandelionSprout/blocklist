@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ✋ Remove Annoyances
-! Last modified: 29/12/2018
+! Last modified: 08/01/2019
 ! Expires: 12 hours
 ! Blocks clickbait etc. that I personally don't want.
 
@@ -22,25 +22,25 @@ trakt.tv##.huckster-vip-square
 ||dab1nmslvvntp.cloudfront.net/wp-content/uploads/2016/11/14788516501466142151pattern-final-copy.png$image
 
 ! Removes a nagging countdown bar in the header in Sitepoint
-www.sitepoint.com###fixed-countdown-bar
+sitepoint.com###fixed-countdown-bar
 
 ! Removes the "Pro" promo in Jekyll Themes website
 jekyllthemes.io##.promo
 
 ! Removes more Reddit annoyances
-www.reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
+reddit.com##._1b1Jalg2nxA_Z-BjKXRfAV
 
 ! Removes the Reddit beta design button in the top left
-www.reddit.com###redesign-beta-optin-btn
+reddit.com###redesign-beta-optin-btn
 
 ! Removes nagging "Log In" banner when browsing Instagram
-www.instagram.com##.Fzijm.bR_3v
+instagram.com##.Fzijm.bR_3v
 
 ! Removes Recommended videos and channels from the frontpage
-www.youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix:has-text(Recommended)
+youtube.com##.feed-item-container.browse-list-item-container.yt-section-hover-container.compact-shelf.shelf-item.branded-page-box.clearfix:has-text(Recommended)
 
 ! Removes 17track cookie modal
-www.17track.net##.in.modal-backdrop
+17track.net##.in.modal-backdrop
 
 ! Removes Reddit re-design opt-in button
 old.reddit.com##.redesign-beta-optin
@@ -55,4 +55,8 @@ about.me##.anonymous_ledge_view-scope-1RSnD
 about.me##.signup-link.navlink > [href="/welcome"]
 
 ! Freepik Nagging Banner
-www.freepik.com###banner-holder > div
+freepik.com###banner-holder > div
+freepik.com##.bobjoll
+
+! Cronn Privacy Overlay
+www.cronn.de##.privacyoverlay
