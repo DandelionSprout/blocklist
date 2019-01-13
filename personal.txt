@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ✋ Remove Annoyances
-! Last modified: 08/01/2019
+! Last modified: 03/01/2019
 ! Expires: 12 hours
 ! Blocks clickbait etc. that I personally don't want.
 
@@ -57,6 +57,14 @@ about.me##.signup-link.navlink > [href="/welcome"]
 ! Freepik Nagging Banner
 freepik.com###banner-holder > div
 freepik.com##.bobjoll
+||cdns2.freepik.com/img/campaigns/flashsales/popup/5.png$image
+freepik.com###popup-flashsales-5
 
 ! Cronn Privacy Overlay
-www.cronn.de##.privacyoverlay
+cronn.de##.privacyoverlay
+
+! Upvid Overlay
+upvid.co###mask
+
+! Scridb Annoyance
+scribd.com##.user_dismiss.entered.seo_roadblock.wrapper
