@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 🇦🇱 Adblock List for Albania
 ! Description: Albanian adblock list
-! Last modified: 31/12/2018
+! Last modified: 24/01/2019
 ! Expires: 1 day
 ! Homepage: https://github.com/anxh3l0/blocklist
 ! License: https://unlicense.org/
@@ -165,6 +165,9 @@ nimitv.com##.olark-attention-grabber
 
 ! Gazeta Express Ads
 gazetaexpress.com###ad-wide_skyscraper
+gazetaexpress.com##.ad-big_leaderboard
+gazetaexpress.com##.ad-medium_rectangle
+gazetaexpress.com###ad-big_rectangle
 
 ! Insajderi Ads
 insajderi.com##.new_header-ad-box
@@ -385,3 +388,17 @@ myalbanianfood.com###custom_html-6
 myalbanianfood.com###text-15
 myalbanianfood.com##.sidebar-single-w
 myalbanianfood.com##.single-post-comments-sidebar
+
+! Kosova Press Ads
+kosovapress.com##.ad-container
+kosovapress.com##.reklama_top
+
+! Arbresh Ads
+arbresh.info##.reklama-center
+
+! Epoka E Re Ads
+epokaere.com##.outer-banner
+epokaere.com##.a-d_wrapper
+
+! Gazeta Lajm Ads
+gazetalajm.com##.bannerSection.container
